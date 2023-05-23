@@ -1,7 +1,7 @@
 <header>
     <div class="container d-flex justify-content-between text-uppercase">
         <div class="logo d-flex">
-            <img class="ms-2 align-self-center" src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="">
+            <a href="/"><img class="ms-2 align-self-center" src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt=""></a>
         </div>
         <nav class="navbar navbar-expand-lg p-0">
             <div class="collapse navbar-collapse" id="navbarNav">
