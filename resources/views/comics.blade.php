@@ -12,12 +12,12 @@
             <div class="col my-5">
                 <div class="card border-0">
                     <div class="card-img-top">
-                        <img src="{{ $comic['thumb']}}" alt="">
+                        <img src="{{ $comic['thumb']}}" alt="{{ $comic['title']}}">
                     </div>
                     <!-- /card-img-top -->
                     <div class="card-body px-0">
                         <h4 class="card-text text-uppercase">
-                            {{$comic['title']}}
+                            {{$comic['series']}}
                         </h4>
                     </div>
                     <!-- /card-body -->

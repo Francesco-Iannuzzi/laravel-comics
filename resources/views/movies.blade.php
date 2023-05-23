@@ -3,8 +3,8 @@
 @section('content')
 
 
-<section class="text-center py-5">
-    <h1>MOVIES</h1>
+<section class="text-center py-5 bg-dark">
+    <h1 class="txt-light">MOVIES</h1>
 </section>
 <section class="banner text-uppercase">
     <div class="container">
