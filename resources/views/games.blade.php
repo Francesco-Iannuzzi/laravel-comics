@@ -4,7 +4,7 @@
 
 
 <section class="text-center py-5">
-    <h1>HOMEPAGE</h1>
+    <h1>GAMES</h1>
 </section>
 <section class="banner text-uppercase">
     <div class="container">
