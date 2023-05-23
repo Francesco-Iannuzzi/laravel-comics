@@ -1,4 +1,10 @@
 <header>
+    <div class="current_page">
+        <div class="container d-flex justify-content-end text-light gap-5">
+            <small>DC POWER VISA &copy;</small>
+            <small>ADDITIONAL DC SITES</small>
+        </div>
+    </div>
     <div class="container d-flex justify-content-between text-uppercase">
         <div class="logo d-flex">
             <a class="align-self-center" href="{{ route('home')}}"><img class="ms-2" src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt=""></a>
