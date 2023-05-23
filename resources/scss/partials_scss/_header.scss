@@ -1,0 +1,20 @@
+@use '../partials_scss/variables' as *;
+
+header {
+    background-color: $light;
+
+    .logo img {
+        width: 3rem;
+    }
+
+    .navbar-nav a {
+        font-size: 0.8rem;
+        color: $darker;
+        border-bottom: 2px solid transparent;
+
+        &:hover {
+            color: $dc_color;
+            border-bottom: 2px solid $dc_color;
+        }
+    }
+}
