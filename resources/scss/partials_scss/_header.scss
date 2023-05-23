@@ -3,6 +3,10 @@
 header {
     background-color: $light;
 
+    .current_page {
+        background-color: $dc_color;
+    }
+
     .logo img {
         width: 3rem;
     }

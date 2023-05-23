@@ -2,7 +2,7 @@
 
 footer {
     .up_footer {
-        background-image: url('../../img/dc-logo-bg.png'), url('../../img/footer-bg.jpg');
+        background-image: url('/resources/img/dc-logo-bg.png'), url('/resources/img/footer-bg.jpg');
         background-position: right center, left top;
         background-repeat: no-repeat, repeat;
         background-color: $darker;
